@@ -39,14 +39,14 @@ Date,Province,Age,Sex,Country
 20-Mar-2020 10:23,FreeState,74,male,pending
 20-Mar-2020 10:23,FreeState,32,male,pending
 20-Mar-2020 10:23,WesternCape,31,female,United Kingdom
-20-Mar-2020 10:23,WesternCape,34,Netherlands,
-20-Mar-2020 10:23,WesternCape,26,Netherlands,
-20-Mar-2020 10:23,WesternCape,29,with,pending
+20-Mar-2020 10:23,WesternCape,34,,Netherlands
+20-Mar-2020 10:23,WesternCape,26,,Netherlands
+20-Mar-2020 10:23,WesternCape,29,,pending
 20-Mar-2020 10:23,WesternCape,69,male,Switzerland and Dubai
-20-Mar-2020 10:23,WesternCape,58,United,"Kingdom, Austria and Tanzania"
+20-Mar-2020 10:23,WesternCape,58,,"Kingdom, Austria and Tanzania United"
 20-Mar-2020 10:23,WesternCape,23,male,United Kingdom and Germany
 20-Mar-2020 10:23,WesternCape,43,female,Canada and Austria
 20-Mar-2020 10:23,WesternCape,60,male,"Saudi Arabia, United Kingdom, Switzerland and Austria"
-20-Mar-2020 10:23,WesternCape,62,United,"Kingdom, Austria and Switzerland"
+20-Mar-2020 10:23,WesternCape,62,,"Kingdom, Austria and Switzerland United"
 20-Mar-2020 10:23,WesternCape,63,male,United Kingdom and Italy
 20-Mar-2020 10:23,KwaZuluNatal,29,female,pending
