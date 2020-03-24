@@ -3,7 +3,8 @@
 Data taken from the [NICD](http://www.nicd.ac.za/) website.
 
 ## Data Format
-The format of the data is present in a .csv file and it follows the format of the NICD data entries.
+The format of the data is presented in a .csv file and it follows the format of the NICD data entries on the
+NICD website. 
 
 Example:
 |Date|Province|Age|Sex|Country|
