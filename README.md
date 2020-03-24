@@ -2,6 +2,18 @@
 
 Data taken from the [NICD](http://www.nicd.ac.za/) website.
 
+## Data Format
+The format of the data is present in a .csv file and it follows the format of the NICD data entries.
+
+Example:
+|Date|Province|Age|Sex|Country|
+|---|---|---|---|---|
+|12-Mar-2020 06:37|KwazuluNatal|38|male|Turkey|
+
+where **Country** is the suspected place of where the person might have been infected. For South Africa this
+would be defined as **local**. The **Date** column is the date on which the NICD uploaded the data to their website.
+
+
 ## NICD Data issues
 There are a number of data entry errors/omissions on certain days from the NICD website.
 
