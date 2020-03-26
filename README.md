@@ -1,5 +1,9 @@
 # South Africa Cases for the covid-19 disease
 
+** The NICD has stopped updating detailed data for the cases, **
+The University of WITS also has a visualization site that links to NICD data,
+[COVID-19 South Africa Dashboard[(https://datastudio.google.com/u/0/reporting/15817068-62f2-4101-8e0f-385e2ddd9326/page/1M).
+
 Data taken from the [NICD](http://www.nicd.ac.za/) website.
 
 ## Data Format
